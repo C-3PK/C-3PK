@@ -37,7 +37,8 @@ Check my pinned repos for:
 
 ## 🔗 Links
 
-- 🌐 [GitHub](https://github.com/C-3PK) (WIP)
+- 🌐 [C-3PK.github.io](https://C-3PK.github.io)
+- 🐙 [GitHub](https://github.com/C-3PK)
 - 🦊 [GitLab](https://gitlab.com/C-3PK)
 
 ---
